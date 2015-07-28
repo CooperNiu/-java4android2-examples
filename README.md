@@ -1,4 +1,4 @@
-# Android Application Development: A Beginner's Tutorial #
+# Java for Android, Second Edition #
 ### By: Budi Kurniawan ###
 ### ISBN: 9781771970259 ###
 ### Published by Brainy Software (http://brainysoftware.com) ###
